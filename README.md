@@ -1,6 +1,6 @@
 # Simple-gallery Responsive Template
 
-Responsive gallery one-page template template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
+Testing 
 
 Demo: [http://website-templates.github.io/simple-gallery_responsive-template](http://website-templates.github.io/simple-gallery_responsive-template/)
 
